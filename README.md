@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hector65714
-- 👀 I’m interested in Virtual Machine and Computer cdoing. 
-- 🌱 I’m currently learning How to create a Mac OS Simple KVM on Linux.
-- 📫 How to reach me: hectorgabriel@houlden3.onmicrosoft.com
+- 👀 I’m interested in Virtual Machines and Computer coding. 
+- 🌱 I’m currently learning How to viruses for security research.
+- 📫 How to reach me: hectorhoulden7@gmail.com
 
 <!---
 Hector65714/Hector65714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
