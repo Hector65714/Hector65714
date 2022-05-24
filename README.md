@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hector65714
 - 👀 I’m interested in Virtual Machines and Computer coding. 
-- 🌱 I’m currently learning How to viruses for security research.
+- 🌱 I’m currently learning How to create/analyze viruses for security research.
 - 📫 How to reach me: hectorhoulden7@gmail.com
 
 <!---
